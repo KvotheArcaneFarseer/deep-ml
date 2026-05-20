@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T00:29:50.882Z",
+  "generated_at": "2026-10-01T00:29:52.782Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -65,6 +65,19 @@
       "last_pushed_at": "2026-04-07T17:11:57.846Z",
       "language": "python",
       "lines": 3
+    },
+    "problem:731": {
+      "kind": "problem",
+      "id": "731",
+      "title": "Hash-Based Expert Routing for MoE Layers",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/731",
+      "path": "problems/0731-hash-based-expert-routing-for-moe-layers",
+      "first_solved_at": "2026-05-20T15:47:10.658Z",
+      "last_pushed_at": "2026-05-20T15:47:10.658Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
