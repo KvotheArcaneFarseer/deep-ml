@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T00:29:52.782Z",
+  "generated_at": "2026-10-01T00:29:54.623Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -78,6 +78,32 @@
       "last_pushed_at": "2026-05-20T15:47:10.658Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-05-21T01:34:11.434Z",
+      "last_pushed_at": "2026-05-21T01:34:11.434Z",
+      "language": "python",
+      "lines": 18
+    },
+    "lab:23": {
+      "kind": "lab",
+      "id": "23",
+      "title": "Train a Binary Classifier",
+      "difficulty": "easy",
+      "category": "Logistic Regression",
+      "url": "https://www.deep-ml.com/labs/23",
+      "path": "labs/0023-train-a-binary-classifier",
+      "first_solved_at": "2026-05-21T18:31:36.483Z",
+      "last_pushed_at": "2026-05-21T18:31:36.483Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
