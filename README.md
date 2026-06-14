@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 7 problems · 1 labs · 0 math
+**9** solved · 7 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Train a Binary Classifier](https://www.deep-ml.com/labs/23) | easy | 2026-05-21 | [solution](labs/0023-train-a-binary-classifier) |
+| [Train a Linear Regression Model](https://www.deep-ml.com/labs/18) | easy | 2026-06-14 | [solution](labs/0018-train-a-linear-regression-model) |
 
 ---
 
