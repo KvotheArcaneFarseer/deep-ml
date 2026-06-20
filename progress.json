@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T00:29:56.441Z",
+  "generated_at": "2026-10-01T00:29:58.180Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -117,6 +117,32 @@
       "last_pushed_at": "2026-06-14T17:27:08.600Z",
       "language": "python",
       "lines": 47
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-06-20T18:29:45.989Z",
+      "last_pushed_at": "2026-06-20T18:29:45.989Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-06-20T20:10:11.992Z",
+      "last_pushed_at": "2026-06-20T20:10:11.992Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
