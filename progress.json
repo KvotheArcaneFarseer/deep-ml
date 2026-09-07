@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T00:30:05.915Z",
+  "generated_at": "2026-10-01T00:30:08.545Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -195,6 +195,32 @@
       "last_pushed_at": "2026-07-11T04:42:46.797Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-09-07T02:17:53.497Z",
+      "last_pushed_at": "2026-09-07T02:17:53.497Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-09-07T20:03:14.231Z",
+      "last_pushed_at": "2026-09-07T20:03:14.231Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
