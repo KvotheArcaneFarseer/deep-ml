@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**17** solved · 15 problems · 2 labs · 0 math
+**18** solved · 16 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-05-21 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-04-07 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Hash-Based Expert Routing for MoE Layers](https://www.deep-ml.com/problems/731) | easy | 2026-05-20 | [solution](problems/0731-hash-based-expert-routing-for-moe-layers) |
+| [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-09-08 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-09-07 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-03-23 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-06-20 | [solution](problems/0003-reshape-matrix) |
