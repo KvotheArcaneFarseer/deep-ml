@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**20** solved · 18 problems · 2 labs · 0 math
+**21** solved · 19 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-03-23 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-06-20 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-06-20 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
+| [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-09-12 | [solution](problems/0024-single-neuron) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-03-29 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-06-29 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Implement INT8 Quantization](https://www.deep-ml.com/problems/294) | medium | 2026-03-24 | [solution](problems/0294-implement-int8-quantization) |
