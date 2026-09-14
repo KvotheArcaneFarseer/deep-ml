@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T00:30:15.964Z",
+  "generated_at": "2026-10-01T00:30:17.885Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -273,6 +273,63 @@
       "last_pushed_at": "2026-09-12T01:45:28.424Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:549": {
+      "kind": "problem",
+      "id": "549",
+      "title": "Off-Policy n-Step TD Prediction with Importance Sampling",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/549",
+      "path": "problems/0549-off-policy-n-step-td-prediction-with-importance-sampling",
+      "first_solved_at": "2026-09-14T05:08:34.248Z",
+      "last_pushed_at": "2026-09-14T05:08:34.248Z",
+      "language": "python",
+      "lines": 53
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-09-14T21:54:57.112Z",
+      "last_pushed_at": "2026-09-14T21:54:57.112Z"
+    },
+    "math:9": {
+      "kind": "math",
+      "id": "9",
+      "title": "Matrix Basics",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/9",
+      "path": "math/0009-matrix-basics",
+      "first_solved_at": "2026-09-14T21:59:15.735Z",
+      "last_pushed_at": "2026-09-14T21:59:15.735Z"
+    },
+    "math:10": {
+      "kind": "math",
+      "id": "10",
+      "title": "Matrix Multiplication",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/10",
+      "path": "math/0010-matrix-multiplication",
+      "first_solved_at": "2026-09-14T22:02:47.007Z",
+      "last_pushed_at": "2026-09-14T22:02:47.007Z"
+    },
+    "math:8": {
+      "kind": "math",
+      "id": "8",
+      "title": "Vector Norms and Linear Independence",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/8",
+      "path": "math/0008-vector-norms-and-linear-independence",
+      "first_solved_at": "2026-09-14T22:39:58.071Z",
+      "last_pushed_at": "2026-09-14T22:39:58.071Z"
     }
   }
 }
