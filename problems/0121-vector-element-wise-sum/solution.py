@@ -1,0 +1,11 @@
+def vector_sum(a: list[int|float], b: list[int|float]) -> list[int|float]:
+	# Return the element-wise sum of vectors 'a' and 'b'.
+	# If vectors have different lengths, return -1.
+	if len(a) == len(b):
+		vec = []
+		for i in range(len(a)):
+			add = a[i] + b[i]
+			vec.append(add)
+		return vec
+	else:
+		return -1
