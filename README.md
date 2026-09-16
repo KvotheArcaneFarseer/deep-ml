@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**28** solved · 22 problems · 2 labs · 4 math
+**29** solved · 23 problems · 2 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-06-29 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Implement INT8 Quantization](https://www.deep-ml.com/problems/294) | medium | 2026-03-24 | [solution](problems/0294-implement-int8-quantization) |
 | [Implement Isolation Forest for Anomaly Detection](https://www.deep-ml.com/problems/367) | medium | 2026-04-01 | [solution](problems/0367-implement-isolation-forest-for-anomaly-detection) |
+| [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-09-16 | [solution](problems/0017-k-means-clustering) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-07-11 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-09-07 | [solution](problems/0007-matrix-transformation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-09-09 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
