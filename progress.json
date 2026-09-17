@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T00:30:22.178Z",
+  "generated_at": "2026-10-01T00:30:24.639Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -369,6 +369,54 @@
       "last_pushed_at": "2026-09-16T15:59:01.482Z",
       "language": "python",
       "lines": 86
+    },
+    "problem:328": {
+      "kind": "problem",
+      "id": "328",
+      "title": "Vector Norms (L1/L2/L-inf) and the Frobenius Norm",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/328",
+      "path": "problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm",
+      "first_solved_at": "2026-09-17T07:53:13.306Z",
+      "last_pushed_at": "2026-09-17T07:53:13.306Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-09-17T08:27:27.377Z",
+      "last_pushed_at": "2026-09-17T08:27:27.377Z",
+      "language": "python",
+      "lines": 20
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-09-17T08:41:36.770Z",
+      "last_pushed_at": "2026-09-17T08:41:36.770Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-09-17T08:45:24.212Z",
+      "last_pushed_at": "2026-09-17T08:45:24.212Z"
     }
   }
 }
