@@ -16,6 +16,6 @@ def gradient_direction_magnitude(gradient: list) -> dict:
 	gradient = np.array(gradient)
 	L2 = float(np.linalg.norm(gradient))
 	if L2 == 0:
-		return {'magnitude':L2, 'direction': np.zeros_like(gradient), 'descent_direction': np.zeros_like(gradient)}
+		return {'magnitude':L2, 'direction': list(np.zeros_like(gradient)), 'descent_direction': list(np.zeros_like(gradient))}
 	else:
 		return {'magnitude':L2, 'direction': list(gradient/L2), 'descent_direction': list(-1 * (gradient / L2))}
