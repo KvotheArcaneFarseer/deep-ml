@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**39** solved · 28 problems · 2 labs · 9 math
+**40** solved · 29 problems · 2 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-04-07 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-10-05 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-09-15 | [solution](problems/0083-dot-product-calculator) |
+| [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-10-05 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-09-10 | [solution](problems/0016-feature-scaling-implementation) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-10-02 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Hash-Based Expert Routing for MoE Layers](https://www.deep-ml.com/problems/731) | easy | 2026-05-20 | [solution](problems/0731-hash-based-expert-routing-for-moe-layers) |
