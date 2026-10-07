@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T12:21:55.882Z",
+  "generated_at": "2026-10-07T16:19:31.964Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -526,6 +526,17 @@
       "path": "math/0011-determinants-and-trace",
       "first_solved_at": "2026-10-06T12:21:53.403Z",
       "last_pushed_at": "2026-10-06T12:21:53.403Z"
+    },
+    "math:13": {
+      "kind": "math",
+      "id": "13",
+      "title": "Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/13",
+      "path": "math/0013-solving-linear-systems",
+      "first_solved_at": "2026-10-07T16:19:30.293Z",
+      "last_pushed_at": "2026-10-07T16:19:30.293Z"
     }
   }
 }
