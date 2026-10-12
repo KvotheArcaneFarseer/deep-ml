@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**47** solved · 31 problems · 2 labs · 14 math
+**48** solved · 32 problems · 2 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -38,6 +38,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement INT8 Quantization](https://www.deep-ml.com/problems/294) | medium | 2026-03-24 | [solution](problems/0294-implement-int8-quantization) |
 | [Implement Isolation Forest for Anomaly Detection](https://www.deep-ml.com/problems/367) | medium | 2026-04-01 | [solution](problems/0367-implement-isolation-forest-for-anomaly-detection) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-09-16 | [solution](problems/0017-k-means-clustering) |
+| [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-10-12 | [solution](problems/0329-matrix-rank) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-07-11 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-09-07 | [solution](problems/0007-matrix-transformation) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-09-30 | [solution](problems/0312-quotient-rule-for-derivatives) |

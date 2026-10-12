@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T12:06:57.089Z",
+  "generated_at": "2026-10-12T01:41:36.396Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -581,6 +581,19 @@
       "path": "problems/0195-matrix-determinant-trace",
       "first_solved_at": "2026-10-10T12:06:56.017Z",
       "last_pushed_at": "2026-10-10T12:06:56.017Z",
+      "language": "python",
+      "lines": 33
+    },
+    "problem:329": {
+      "kind": "problem",
+      "id": "329",
+      "title": "Matrix Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/329",
+      "path": "problems/0329-matrix-rank",
+      "first_solved_at": "2026-10-12T01:41:32.778Z",
+      "last_pushed_at": "2026-10-12T01:41:32.778Z",
       "language": "python",
       "lines": 33
     }
